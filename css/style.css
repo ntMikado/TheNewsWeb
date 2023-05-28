@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+
+.logo{
+    padding: 20px 0 0 0;
+}
+
+.logotext{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    padding: 4px 0 0 0;
+}
+
+
+
+.list{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding: 43px 0 0 0;
+}
+
+.text a{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: #EF4423;
+    padding: 0 0 0 278px;
+}
+
+.text a:hover{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color:green;
+    border: black;
+    padding: 0 0 0 278px;
+}
+
+.texxt a{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: black;
+}
+
+.texxt a:hover{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color:green;
+    border: black;
+}
+
+.picture{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.block{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 36px;
+}
+
+.party{
+    width: 350px;
+    background: #B71C1C;
+}
+
+
+ .party_logo{
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #FFFFFF;
+ }
+
+ .party_words{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #EBEBEB;
+ }
+
+
+.obama{
+    width: 350px;
+    background: #6A1B9A;
+}
+
+.prince{
+    width: 350px;
+    background: #303F9F;
+}
+
+.girl{
+    width: 350px;
+    background: #00695C;
+}
+
+.news{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bumaga{
+    width: 1400px;
+    height: 531px;
+    display: flex;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.maga{
+    display: flex;
+    justify-content: center;
+    background: #E5E5E5;
+}
+
+.imaga{
+    padding: 0 0 0 130px;
+}
+
+.laga{
+    padding: 20px 0 0 30px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    color: #3A3838;
+}
+
+.blaga{
+    padding: 30px 145px 0 30px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #686868;
+
+}
+
+.mainer{
+    background: #3A3838;
+    width: 1400px;
+    height: 128px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.svoe{
+    padding: 28px 0 0 0;
+}
+
+.texas a{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: #EF4423;
+    padding: 0 0 0 278px;
+}
+
+.texas a:hover{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color:green;
+    border: black;
+    padding: 0 0 0 278px;
+}
+
+.texass a{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: white;
+}
+
+.texass a:hover{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color:green;
+    border: black;
+}
+
+.logotexas {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: white;
+    padding: 4px 0 0 10px;
+}
